@@ -1,0 +1,113 @@
+body {
+    margin: 0 10%;
+    font-family: "SUSE", sans-serif;
+    background-color: rgb(240, 240, 226);
+}
+
+/*Header*/
+
+
+/*Colors*/
+
+.container {
+    border: 2px solid #a2a2a6;
+    padding: 10px;
+    margin: 10px auto;
+    
+  }
+  
+.color-container {
+width: 100%;
+text-align: left;
+   
+
+
+  }
+  
+  .color-panel {
+    display: inline-block;
+    width: 32%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+  }
+
+  .green {
+    background-color: #ADFF2F;
+    color: black;
+  }
+  
+  .blue {
+    background-color: #00FFFF;
+    color: #000;
+  }
+  
+  .pink {
+    background-color: #FF1493;
+  }
+  
+  .purple {
+    background-color: #FF00FF;
+  }
+
+/*Fonts*/
+
+.font-panel {
+    width: 45%;
+    display: inline-block;
+  }
+  
+  .font-label {
+    font-size: 20px;
+    text-decoration: underline;
+  }
+
+.NerkoPro {
+    font-family: "Nerko One", cursive;
+
+}
+
+.SUSE {
+    font-family: "SUSE", sans-serif;
+}
+
+.Nunito {
+    font-family: "Nunito", sans-serif;
+}
+
+.regular {
+    font-style: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: "Nerko One", cursive;
+  }
+  
+  .text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "SUSE", sans-serif;
+  }
+  
+  .text-panel p {
+    font-weight: 400;
+    font-size: 14px;
+    font-family: "Nunito", sans-serif;
+  }
+/*Footer*/
+
+
+.right {
+    text-align: right;
+    font-size: small;
+}
